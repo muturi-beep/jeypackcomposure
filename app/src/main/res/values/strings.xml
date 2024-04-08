@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">solo</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_simple_list_view">SimpleListViewActivity</string>
+    <string name="title_activity_recycler_view.kt">RecyclerView.kt</string>
+    <string name="title_activity_recycler_view">RecyclerView</string>
+    <string name="title_activity_custom_list_view">CustomListViewActivity</string>
+    <string name="title_activity_model">Model</string>
+    <string name="title_activity_my_adapter">MyAdapter</string>
+</resources>
